@@ -1,1 +1,2 @@
 # Pong
+Simple pong game
